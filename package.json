@@ -1,6 +1,6 @@
 {
     "name": "kimserver-test-1",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "keywords": [
         "YAPP"
     ],
@@ -24,6 +24,6 @@
     },
     "engines": {
         "node": ">=0.10.3 <0.12",
-        "npm" : "~1.0.20"
+        "npm": "~1.0.20"
     }
 }
